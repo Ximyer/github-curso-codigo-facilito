@@ -7,14 +7,14 @@ assignees: ''
 
 ---
 
-#Título
+# Título
 
-##Descripción
+## Descripción
 
-##Plataforma
+## Plataforma
 [ ] Mobile
 [ ] Web
 
-#Navegador
+# Navegador
  
-##Capturas de Pantalla
+## Capturas de Pantalla
