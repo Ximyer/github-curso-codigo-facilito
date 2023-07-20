@@ -1,5 +1,4 @@
-![Estrellas del Repo](https://img.shields.io/github/gist/stars/:gistId
-)
+![Estrellas del Repo](https://img.shields.io/gitlab/stars/:project)
 
 Prueba para ver si sí me sale esto. 🥸
 
